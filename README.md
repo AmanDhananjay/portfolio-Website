@@ -1,3 +1,3 @@
 # portfolio-Website
 
-https://amandhananjay.000webhostapp.com/
+https://amandhananjay.github.io/portfolio-Website/
